@@ -1,0 +1,25 @@
+{
+  "name": "Backend_Assigment",
+  "version": "1.0.0",
+  "description": "Backend_Assigment_HW4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedzaanin/Backend-_Assigment.git"
+  },
+  "keywords": [],
+  "author": "Mohammed_Alzaanin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedzaanin/Backend-_Assigment/issues"
+  },
+  "homepage": "https://github.com/mohammedzaanin/Backend-_Assigment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
